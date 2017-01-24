@@ -1,5 +1,5 @@
 # Design-Pattern-For-iOS
-IOS Design Mode
+iOS Design Mode
 
 I have explained some design pattern in Objective C that commonly use in all languages.
     
